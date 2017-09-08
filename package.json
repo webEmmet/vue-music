@@ -2,8 +2,7 @@
   "name": "vue-music",
   "version": "1.0.0",
   "description": "音乐播放器",
-  "author": "ustbhuangyi <280309453@qq.com>",
-  "private": true,
+  "author": "webEmmet",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
