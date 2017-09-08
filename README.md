@@ -2,7 +2,7 @@
 这是一个基于qq音乐api，使用vue、es6打造的web app音乐播放器
 
 ## 技术栈
-vue2 + vue-router + vuex + axios + jsonp + webpack + stylus + localStorage + es6
+vue2 + vue-router + vuex + axios + jsonp + webpack + stylus + localStorage + es6 + better-scroll
 
 ### 实现的功能
 1. 热门推荐
