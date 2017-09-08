@@ -23,7 +23,7 @@ vue2 + vue-router + vuex + axios + jsonp + webpack + stylus + localStorage + es6
 4. 下载
 
 ### 现存问题
-对手机的支持不足，很多组件在真机上无法加载
+在PC上支持很好，但对手机的支持不足，很多组件在真机上无法加载
 
 ## Build Setup
 
